@@ -10,8 +10,8 @@ class GovdataSpider(scrapy.Spider):
     #start_urls = ['http://data.stats.gov.cn/']
     
     def init(self):
-        self.dirname=""
-        self.table=""
+        #self.dirname=""
+        #self.table=""
         super(scrapy.Spider,self).__init__()
 
     def start_requests(self):
