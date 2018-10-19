@@ -114,5 +114,5 @@ UA=["Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50
 
 
 
-MYSQL={'host':'','port':3306,'user':'atlas','password':'atlas@MYSQL1225','db':'python3'}
+MYSQL={'host':'','port':3306,'user':'','password':'','db':''}
 
